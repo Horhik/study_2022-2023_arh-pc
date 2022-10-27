@@ -121,7 +121,11 @@ header-includes:
 
 ![make](image/10.png){#fig:010 width=70%}
 
-# Загрузим Файлы на GitHub
+## Загрузим Файлы на GitHub
+
+Исполним комманды `git add`, `git commit` и `git push`
+
+![Выгрузка изменений на GitHub](image/11.png){#fig:011 width=70%}
 
 # Выводы
 
